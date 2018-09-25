@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+    <string name="Drinks">drink</string>
+    <string name="Food">food</string>
+    <string name="Cafes">cafes</string>
+
+</resources>
